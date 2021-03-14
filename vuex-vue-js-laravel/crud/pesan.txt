@@ -1,0 +1,1 @@
+bagian ini cuma mengambil hal2 penting saja dari program yang dibuat menggunakan laravel vue js. harap sudah menginstal vue js, vue router, vuex dan bootstrap vue dan lain lain yang diperlukan.
